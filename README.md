@@ -1,8 +1,10 @@
-# Exploratory-Data-Analysis
+# Data Preparation
 
 **MACHINE LEARNING STEPS**
 
 ![image](https://user-images.githubusercontent.com/117054438/201808559-5bbcd39d-41f9-41eb-b892-af9ccacf2622.png)
+
+# Exploratory-Data-Analysis
 
 
 **EDA Samples**
