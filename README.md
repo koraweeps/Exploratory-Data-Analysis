@@ -4,6 +4,8 @@
 
 # Data Preparation
 
+![image](https://user-images.githubusercontent.com/117054438/201810096-1cf85562-dac2-4bab-b83f-e3aa1f972830.png)
+
 # Exploratory-Data-Analysis
 
 
