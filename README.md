@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/117054438/201810096-1cf85562-dac2-4bab-b83f-e3aa1f972830.png)
 
 # Exploratory-Data-Analysis
-- the very first step before you can perform any changes to the dataset or develop a statistical model to answer business problems. In other words, the process of EDA contains summarizing, visualizing and getting deeply acquainted with the important traits of a data set.
+EDA is the very first step before you can perform any changes to the dataset or develop a statistical model to answer business problems. In other words, the process of EDA contains summarizing, visualizing and getting deeply acquainted with the important traits of a data set.
 
 Typically, using EDA we try to get the answer to the following questions:
 
