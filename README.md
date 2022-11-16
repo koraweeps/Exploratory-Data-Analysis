@@ -30,6 +30,7 @@ Typically, using EDA we try to get the answer to the following questions:
 - [Intro to Exploratory data analysis (EDA) in Python](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python)
 - [Detailed exploratory data analysis with python](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python)
 - [Advanced exploratory data analysis (EDA) with Python](https://medium.com/epfl-extension-school/advanced-exploratory-data-analysis-eda-with-python-536fa83c578a)
+- [https://www.projectpro.io/article/data-preparation-for-machine-learning/595](https://www.projectpro.io/article/data-preparation-for-machine-learning/595)
 
 **EDA Summary**
 - Unique Values (columns and rows)
