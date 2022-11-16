@@ -37,3 +37,4 @@ Typically, using EDA we try to get the answer to the following questions:
 - Missing Value
 - Distribution
 - Outlier
+- Interaction
