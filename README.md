@@ -32,3 +32,8 @@ Typically, using EDA we try to get the answer to the following questions:
 - [Advanced exploratory data analysis (EDA) with Python](https://medium.com/epfl-extension-school/advanced-exploratory-data-analysis-eda-with-python-536fa83c578a)
 
 **EDA Summary**
+- Unique Values (columns and rows)
+- Zero Value
+- Missing Value
+- Distribution
+- Outlier
