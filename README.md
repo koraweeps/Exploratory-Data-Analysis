@@ -32,7 +32,7 @@ Typically, using EDA we try to get the answer to the following questions:
 - [Advanced exploratory data analysis (EDA) with Python](https://medium.com/epfl-extension-school/advanced-exploratory-data-analysis-eda-with-python-536fa83c578a)
 - [Data Preparation for Machine Learning Projects](https://www.projectpro.io/article/data-preparation-for-machine-learning/595)
 
-**EDA Summary**
+**Summary**
 - Unique Values (columns and rows)
 - Zero Value
 - Missing Value
