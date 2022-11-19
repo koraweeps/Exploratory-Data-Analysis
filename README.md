@@ -40,3 +40,6 @@ Typically, using EDA we try to get the answer to the following questions:
 - Outlier
 - Interaction
 - Imbalance Data
+
+**Correct and Prepare Data**
+- https://towardsdatascience.com/imputing-missing-data-with-simple-and-advanced-techniques-f5c7b157fb87
