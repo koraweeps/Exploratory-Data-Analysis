@@ -39,6 +39,7 @@ Typically, using EDA we try to get the answer to the following questions:
 - Distribution
 - Outlier
 - Interaction
+  - remove interaction term via VIF: https://medium.com/analytics-vidhya/what-is-multicollinearity-and-how-to-remove-it-413c419de2f
 - Imbalance Data
 
 **Correct and Prepare Data**
